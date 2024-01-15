@@ -55,6 +55,22 @@
       "type": "outcome",
       "createdAt": "2024-01-12T18:09:55.264Z",
       "id": 7
+    },
+    {
+      "description": "teste",
+      "price": 1,
+      "category": "teste",
+      "type": "income",
+      "createdAt": "2024-01-12T18:32:31.063Z",
+      "id": 8
+    },
+    {
+      "description": "sdad",
+      "price": 1000,
+      "category": "adsda",
+      "type": "outcome",
+      "createdAt": "2024-01-15T18:12:34.473Z",
+      "id": 9
     }
   ]
 }
